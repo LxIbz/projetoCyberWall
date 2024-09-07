@@ -1,4 +1,4 @@
-## CyberWall: Seu escudo contra os vilões da internet! ️
+## CyberWall: Seu escudo contra os vilões da internet! ️🔐
 
 Link do Projeto no Vercel: https://projeto-cyber-wall.vercel.app/
 
